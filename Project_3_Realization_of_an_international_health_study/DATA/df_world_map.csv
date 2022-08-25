@@ -1,0 +1,244 @@
+﻿Code zone (ISO2),Code zone (ISO3),Zone,Continent
+AF,AFG,Afghanistan,Asie
+ZA,ZAF,Afrique du Sud,Afrique
+AL,ALB,Albanie,Europe
+DZ,DZA,Algérie,Afrique
+DE,DEU,Allemagne,Europe
+AD,AND,Andorre,Europe
+AO,AGO,Angola,Afrique
+AI,AIA,Anguilla,Amérique du Nord
+AG,ATG,Antigua-et-Barbuda,Amérique du Nord
+AN,ANT,Antilles néerlandaises (ex),Amérique du Nord
+SA,SAU,Arabie saoudite,Asie
+AR,ARG,Argentine,Amérique du Sud
+AM,ARM,Arménie,Asie
+AW,ABW,Aruba,Amérique du Sud
+AU,AUS,Australie,Océanie
+AT,AUT,Autriche,Europe
+AZ,AZE,Azerbaïdjan,Asie
+BS,BHS,Bahamas,Amérique du Nord
+BH,BHR,Bahreïn,Asie
+BD,BGD,Bangladesh,Asie
+BB,BRB,Barbade,Amérique du Nord
+BY,BLR,Bélarus,Europe
+BE,BEL,Belgique,Europe
+BZ,BLZ,Belize,Amérique du Nord
+BJ,BEN,Bénin,Afrique
+BM,BMU,Bermudes,Amérique du Nord
+BT,BTN,Bhoutan,Asie
+BO,BOL,Bolivie (État plurinational de),Amérique du Sud
+BQ,BES,Bonaire - Saint-Eustache et Saba,Amérique du Sud
+BA,BIH,Bosnie-Herzégovine,Europe
+BW,BWA,Botswana,Afrique
+BR,BRA,Brésil,Amérique du Sud
+BN,BRN,Brunéi Darussalam,Asie
+BG,BGR,Bulgarie,Europe
+BF,BFA,Burkina Faso,Afrique
+BI,BDI,Burundi,Afrique
+CV,CPV,Cabo Verde,Afrique
+KH,KHM,Cambodge,Asie
+CM,CMR,Cameroun,Afrique
+CA,CAN,Canada,Amérique du Nord
+CL,CHL,Chili,Amérique du Sud
+CN,CHN,Chine,Asie
+CN,CHN,Chine continentale,Asie
+HK,HKG,Chine - RAS de Hong-Kong,Asie
+MO,MAC,Chine - RAS de Macao,Asie
+TW,TWN,Chine - Taiwan Province de,Asie
+CY,CYP,Chypre,Asie
+CO,COL,Colombie,Amérique du Sud
+KM,COM,Comores,Afrique
+CG,COG,Congo,Afrique
+CR,CRI,Costa Rica,Amérique du Nord
+CI,CIV,Côte d'Ivoire,Afrique
+HR,HRV,Croatie,Europe
+CU,CUB,Cuba,Amérique du Nord
+CW,CUW,Curaçao,Amérique du Sud
+DK,DNK,Danemark,Europe
+DJ,DJI,Djibouti,Afrique
+DM,DMA,Dominique,Amérique du Nord
+EG,EGY,Égypte,Afrique
+SV,SLV,El Salvador,Amérique du Nord
+AE,ARE,Émirats arabes unis,Asie
+EC,ECU,Équateur,Amérique du Sud
+ER,ERI,Érythrée,Afrique
+ES,ESP,Espagne,Europe
+EE,EST,Estonie,Europe
+SZ,SWZ,Eswatini,Afrique
+US,USA,États-Unis d'Amérique,Amérique du Nord
+ET,ETH,Éthiopie,Afrique
+RU,RUS,Fédération de Russie,Europe
+FJ,FJI,Fidji,Océanie
+FI,FIN,Finlande,Europe
+FR,FRA,France,Europe
+GA,GAB,Gabon,Afrique
+GM,GMB,Gambie,Afrique
+GE,GEO,Géorgie,Asie
+Gh,GHA,Ghana,Afrique
+GI,GIB,Gibraltar,Europe
+GR,GRC,Grèce,Europe
+GD,GRD,Grenade,Amérique du Nord
+GL,GRL,Groenland,Amérique du Nord
+GP,GLP,Guadeloupe,Amérique du Nord
+GU,GUM,Guam,Océanie
+GT,GTM,Guatemala,Amérique du Nord
+GN,GIN,Guinée,Afrique
+GQ,GNQ,Guinée équatoriale,Afrique
+GW,GNB,Guinée-Bissau,Afrique
+GY,GUY,Guyana,Amérique du Sud
+GF,GUF,Guyane française,Amérique du Sud
+HT,HTI,Haïti,Amérique du Nord
+HN,HND,Honduras,Amérique du Nord
+HU,HUN,Hongrie,Europe
+IM,IMN,Île de Man,Europe
+GG,GGY,Guernesey,Europe
+JE,JEY,Jersey,Europe
+KY,CYM,Îles Caïmanes,Amérique du Nord
+CK,COK,Îles Cook,Océanie
+FK,FLK,Îles Falkland (Malvinas),Amérique du Sud
+FO,FRO,Îles Féroé,Europe
+MP,MNP,Îles Mariannes du Nord,Océanie
+MH,MHL,Îles Marshall,Océanie
+SB,SLB,Îles Salomon,Océanie
+TC,TCA,Îles Turques-et-Caïques,Amérique du Nord
+VI,VIR,Îles Vierges américaines,Amérique du Nord
+VG,VGB,Îles Vierges britanniques,Amérique du Nord
+WF,WLF,Îles Wallis-et-Futuna,Océanie
+IN,IND,Inde,Asie
+ID,IDN,Indonésie,Asie
+IR,IRN,Iran (République islamique d'),Asie
+IQ,IRQ,Iraq,Asie
+IE,IRL,Irlande,Europe
+IS,ISL,Islande,Europe
+IL,ISR,Israël,Asie
+IT,ITA,Italie,Europe
+JM,JAM,Jamaïque,Amérique du Nord
+JP,JPN,Japon,Asie
+JO,JOR,Jordanie,Asie
+KZ,KAZ,Kazakhstan,Asie
+KE,KEN,Kenya,Afrique
+KG,KGZ,Kirghizistan,Asie
+KI,KIR,Kiribati,Océanie
+KW,KWT,Koweït,Asie
+LS,LSO,Lesotho,Afrique
+LV,LVA,Lettonie,Europe
+LB,LBN,Liban,Asie
+LR,LBR,Libéria,Afrique
+LY,LBY,Libye,Afrique
+LI,LIE,Liechtenstein,Europe
+LT,LTU,Lituanie,Europe
+LU,LUX,Luxembourg,Europe
+MK,MKD,Macédoine du Nord,Europe
+MG,MDG,Madagascar,Afrique
+MY,MYS,Malaisie,Asie
+MW,MWI,Malawi,Afrique
+MV,MDV,Maldives,Asie
+ML,MLI,Mali,Afrique
+MT,MLT,Malte,Europe
+MA,MAR,Maroc,Afrique
+MQ,MTQ,Martinique,Amérique du Nord
+MU,MUS,Maurice,Afrique
+MR,MRT,Mauritanie,Afrique
+YT,MYT,Mayotte,Afrique
+MX,MEX,Mexique,Amérique du Nord
+FM,FSM,Micronésie (États fédérés de),Océanie
+MC,MCO,Monaco,Europe
+MN,MNG,Mongolie,Asie
+ME,MNE,Monténégro,Europe
+MS,MSR,Montserrat,Amérique du Nord
+MZ,MOZ,Mozambique,Afrique
+MM,MMR,Myanmar,Asie
+NA,NAM,Namibie,Afrique
+NR,NRU,Nauru,Océanie
+NP,NPL,Népal,Asie
+NI,NIC,Nicaragua,Amérique du Nord
+NE,NER,Niger,Afrique
+NG,NGA,Nigéria,Afrique
+NU,NIU,Nioué,Océanie
+NO,NOR,Norvège,Europe
+NC,NCL,Nouvelle-Calédonie,Océanie
+NZ,NZL,Nouvelle-Zélande,Océanie
+OM,OMN,Oman,Asie
+UG,UGA,Ouganda,Afrique
+UZ,UZB,Ouzbékistan,Asie
+PK,PAK,Pakistan,Asie
+PW,PLW,Palaos,Océanie
+PS,PSE,Palestine,Asie
+PA,PAN,Panama,Amérique du Nord
+PG,PNG,Papouasie-Nouvelle-Guinée,Océanie
+PY,PRY,Paraguay,Amérique du Sud
+NL,NLD,Pays-Bas,Europe
+PE,PER,Pérou,Amérique du Sud
+PH,PHL,Philippines,Asie
+PL,POL,Pologne,Europe
+PF,PYF,Polynésie française,Océanie
+PR,PRI,Porto Rico,Amérique du Nord
+PT,PRT,Portugal,Europe
+QA,QAT,Qatar,Asie
+SY,SYR,République arabe syrienne,Asie
+CF,CAF,République centrafricaine,Afrique
+KR,KOR,République de Corée,Asie
+MD,MDA,République de Moldova,Europe
+CD,COD,République démocratique du Congo,Afrique
+LA,LAO,République démocratique populaire lao,Asie
+DO,DOM,République dominicaine,Amérique du Nord
+KP,PRK,République populaire démocratique de Corée,Asie
+TZ,TZA,République-Unie de Tanzanie,Afrique
+RE,REU,Réunion,Afrique
+RO,ROU,Roumanie,Europe
+GB,GBR,Royaume-Uni de Grande-Bretagne et d'Irlande du Nord,Europe
+RW,RWA,Rwanda,Afrique
+EH,ESH,Sahara occidental,Afrique
+BL,BLM,Saint-Barthélemy,Amérique du Nord
+SH,SHN,Sainte-Hélène - Ascension et Tristan da Cunha,Afrique
+LC,LCA,Sainte-Lucie,Amérique du Nord
+KN,KNA,Saint-Kitts-et-Nevis,Amérique du Nord
+SM,SMR,Saint-Marin,Europe
+MF,MAF,Saint-Martin (partie française),Amérique du Nord
+PM,SPM,Saint-Pierre-et-Miquelon,Amérique du Nord
+VA,VAT,Saint-Siège,Europe
+VC,VCT,Saint-Vincent-et-les Grenadines,Amérique du Nord
+WS,WSM,Samoa,Océanie
+AS,ASM,Samoa américaines,Océanie
+ST,STP,Sao Tomé-et-Principe,Afrique
+SN,SEN,Sénégal,Afrique
+RS,SRB,Serbie,Europe
+SC,SYC,Seychelles,Afrique
+SL,SLE,Sierra Leone,Afrique
+SG,SGP,Singapour,Asie
+SX,SXM,Sint Maarten (partie néerlandaise),Amérique du Nord
+SK,SVK,Slovaquie,Europe
+SI,SVN,Slovénie,Europe
+SO,SOM,Somalie,Afrique
+SO,SOM,Somalie,Afrique
+SD,SDN,Soudan,Afrique
+SS,SSD,Soudan du Sud,Afrique
+LK,LKA,Sri Lanka,Asie
+SE,SWE,Suède,Europe
+CH,CHE,Suisse,Europe
+SR,SUR,Suriname,Amérique du Sud
+TJ,TJK,Tadjikistan,Asie
+TD,TCD,Tchad,Afrique
+CZ,CZE,Tchéquie,Europe
+TH,THA,Thaïlande,Asie
+TL,TLS,Timor-Leste,Asie
+TG,TGO,Togo,Afrique
+TK,TKL,Tokélaou,Océanie
+TO,TON,Tonga,Océanie
+TT,TTO,Trinité-et-Tobago,Amérique du Nord
+TN,TUN,Tunisie,Afrique
+TM,TKM,Turkménistan,Asie
+TR,TUR,Turquie,Asie
+TV,TUV,Tuvalu,Océanie
+UA,UKR,Ukraine,Europe
+UY,URY,Uruguay,Amérique du Sud
+VU,VUT,Vanuatu,Océanie
+VE,VEN,Venezuela (République bolivarienne du),Amérique du Sud
+VN,VNM,Viet Nam,Asie
+YE,YEM,Yémen,Asie
+ZM,ZMB,Zambie,Afrique
+ZW,ZWE,Zimbabwe,Afrique
+TF,ATF,Terres australes et antarctiques françaises, Antarctique
+AQ,ATA,Antarctique,Antarctica
+CY,CYP,Chypre,Asie
+XK,XXK,Kosovo,Europe
