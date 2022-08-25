@@ -20,6 +20,8 @@ A web application for the last project has been produced as a bonus, it is acces
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/FredLaRosa/Streamlit_Project_1/main/Streamlit_app.py)
 
+or on the repository of the [Streamlit_project_1](https://github.com/FredLaRosa/Streamlit_Project_1).
+
 All these projects are written in French.
 
 *The projects presented serve to illustrate my progress during my studies, the last projects therefore representing the minimum level acquired since I obtained my degree as a Data Analyst.*
