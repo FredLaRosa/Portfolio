@@ -14,6 +14,12 @@ Here are the 9 projects carried out in my Data Analyst training at OpenClassroom
 - International market research
 - Creation of an automated counterfeit detection program
 
+You can download my **Portfolio_presentation** and my **CV**, both in .pdf format by clicking on their name.
+
+A web application for the last project has been produced as a bonus, it is accessible by clicking on the badge below:
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/FredLaRosa/Streamlit_Project_1/main/Streamlit_app.py)
+
 All these projects are written in French.
 
 *The projects presented serve to illustrate my progress during my studies, the last projects therefore representing the minimum level acquired since I obtained my degree as a Data Analyst.*
@@ -28,8 +34,6 @@ A description of each project will be given in a **Scenario.pdf** file.
 All the data necessary for the realization of the project will be placed in a sub-folder named **Data**.
 
 Some notebooks and/or Data folder will be available in *.zip* format due to their large size.
-
-Sometimes
 
 # Programmation :computer:
 
@@ -61,10 +65,10 @@ For the realization of these projects, the following languages/tools were used:
  - Prince
  - fanalysis
  - PCA
- - Math
  - RE
  - Datetime
  - Yellowbrick
+ - Streamlit
 
  Data vizualisation:
  - Matplotlib
