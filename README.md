@@ -14,7 +14,7 @@ Here are the 9 projects carried out in my Data Analyst training at OpenClassroom
 - International market research
 - Creation of an automated counterfeit detection program
 
-You can download my **Portfolio_presentation** and my **CV**, both in .pdf format by clicking on their name.
+You can download my [Portfolio_presentation](https://github.com/FredLaRosa/Portfolio/blob/main/Portfolio%20Data%20Analyst.pdf) and my [CV](https://github.com/FredLaRosa/Portfolio/blob/main/CV%20-%20Fr%C3%A9d%C3%A9ric%20La%20Rosa%20-%20Data%20Scientist.pdf), both in .pdf format by clicking on their name.
 
 A web application for the last project has been produced as a bonus, it is accessible by clicking on the badge below:
 
