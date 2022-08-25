@@ -8,6 +8,7 @@ Here are the 9 projects carried out in my Data Analyst training at OpenClassroom
 - Creation and use of a real estate database
 - Realization of an international health study
 - Optimize the management and analyze the sales of a shop
+- Analyze the sales of a bookstore
 - Analyze the F/M mix at work
 - Study on drinking water internationally
 - International market research
