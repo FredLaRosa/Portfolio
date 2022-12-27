@@ -1,6 +1,7 @@
 # Data Analyst Portfolio :books:
 Here are the 9 projects carried out in my Data Analyst training at OpenClassrooms.
-For contacting me
+
+To contact me:
 ```Python
 print((pd.DataFrame([{"email":[108, 97, 114, 111, 115, 97, 102, 114, 101, 100, 101, 114, 105, 99, 64, 103, 109, 97, 105, 108, 46, 99, 111, 109]}])
  .assign(email=lambda d: d.email.apply(lambda l: "".join([chr(c) for c in l])))
