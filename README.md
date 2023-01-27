@@ -1,5 +1,6 @@
 # Data Analyst Portfolio :books:
 Here are the 9 projects carried out in my Data Analyst training at OpenClassrooms.
+You can access to my tech challenge in Data Science with the Wild Code School by clicking [here](https://github.com/FredLaRosa/Tech_Challenge-Data_science-)
 
 To contact me:
 ```Python
