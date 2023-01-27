@@ -49,6 +49,7 @@ Some notebooks and/or Data folder will be available in *.zip* format due to thei
 
 For the realization of these projects, the following languages/tools were used:
 - Python
+- Jupyter Notebook
 - MySQL
 - Knime
 - Tableau
