@@ -22,7 +22,7 @@ print((pd.DataFrame([{"email":[108, 97, 114, 111, 115, 97, 102, 114, 101, 100, 1
 - International market research
 - Creation of an automated counterfeit detection program
 
-You can download my [Portfolio_presentation](https://github.com/FredLaRosa/Portfolio/blob/main/Portfolio%20Data%20Analyst.pdf) and my [CV](https://github.com/FredLaRosa/Portfolio/blob/main/CV%20-%20Fr%C3%A9d%C3%A9ric%20La%20Rosa%20-%20Data%20Scientist.pdf), both in .pdf format by clicking on their name.
+You can download my [Portfolio_presentation](https://github.com/FredLaRosa/Portfolio/blob/main/Portfolio%20Data%20Analyst.pdf) and my [CV](https://github.com/FredLaRosa/Portfolio/blob/main/CV%20Fr%C3%A9d%C3%A9ric%20La%20Rosa%20-%20%20Data%20Scientist.pdf), both in .pdf format by clicking on their name.
 
 A web application for the last project has been produced as a bonus, it is accessible by clicking on the badge below:
 
